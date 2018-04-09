@@ -1,0 +1,267 @@
+﻿  amotor.cpp
+  ball.cpp
+  contact.cpp
+  fixed.cpp
+  hinge.cpp
+  hinge2.cpp
+  joint.cpp
+  lmotor.cpp
+  null.cpp
+  piston.cpp
+  plane2d.cpp
+  pr.cpp
+  pu.cpp
+  slider.cpp
+  universal.cpp
+  array.cpp
+..\..\ode\src\joints\universal.cpp(142): warning C4244: 'initializing': conversion from 'double' to 'dReal', possible loss of data
+  box.cpp
+  capsule.cpp
+  collision_cylinder_box.cpp
+  collision_cylinder_plane.cpp
+  collision_cylinder_sphere.cpp
+  collision_cylinder_trimesh.cpp
+  collision_kernel.cpp
+  collision_quadtreespace.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(273): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\capsule.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(278): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\capsule.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(279): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\capsule.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(284): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\capsule.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(291): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\capsule.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(273): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_cylinder_box.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(278): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_cylinder_box.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(279): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_cylinder_box.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(284): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_cylinder_box.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(291): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_cylinder_box.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(273): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\box.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(278): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\box.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(279): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\box.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(284): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\box.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(291): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\box.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(273): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_cylinder_plane.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(278): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_cylinder_plane.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(279): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_cylinder_plane.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(284): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_cylinder_plane.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(291): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_cylinder_plane.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(273): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_cylinder_sphere.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(278): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_cylinder_sphere.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(279): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_cylinder_sphere.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(284): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_cylinder_sphere.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(291): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_cylinder_sphere.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(273): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_cylinder_trimesh.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(278): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_cylinder_trimesh.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(279): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_cylinder_trimesh.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(284): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_cylinder_trimesh.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(291): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_cylinder_trimesh.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\ode\src\collision_cylinder_trimesh.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(273): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_kernel.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(278): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_kernel.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(279): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_kernel.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(284): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_kernel.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(291): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_kernel.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\ode\src\collision_kernel.cpp)
+  collision_sapspace.cpp
+  collision_space.cpp
+  collision_transform.cpp
+  collision_trimesh_box.cpp
+  collision_trimesh_ccylinder.cpp
+  collision_trimesh_disabled.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(273): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_transform.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(278): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_transform.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(279): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_transform.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(284): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_transform.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(291): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_transform.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(273): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_box.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(278): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_box.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(279): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_box.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(284): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_box.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(291): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_box.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_box.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(273): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_ccylinder.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(278): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_ccylinder.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(279): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_ccylinder.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(284): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_ccylinder.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(291): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_ccylinder.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_ccylinder.cpp)
+  collision_trimesh_distance.cpp
+  collision_trimesh_gimpact.cpp
+  collision_trimesh_opcode.cpp
+  collision_trimesh_plane.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_distance.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(273): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_gimpact.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(278): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_gimpact.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(279): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_gimpact.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(284): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_gimpact.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(291): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_gimpact.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_gimpact.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(273): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_opcode.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(278): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_opcode.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(279): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_opcode.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(284): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_opcode.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(291): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_opcode.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_opcode.cpp)
+  collision_trimesh_ray.cpp
+  collision_trimesh_sphere.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(273): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_plane.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(278): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_plane.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(279): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_plane.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(284): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_plane.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(291): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_plane.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_plane.cpp)
+  collision_trimesh_trimesh.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(273): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_sphere.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(273): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_ray.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(278): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_sphere.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(278): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_ray.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(279): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_sphere.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(279): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_ray.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(284): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_sphere.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(284): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_ray.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(291): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_sphere.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(291): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_ray.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_sphere.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\ode\src\collision_trimesh_ray.cpp)
+  collision_trimesh_trimesh_new.cpp
+  collision_util.cpp
+  convex.cpp
+  cylinder.cpp
+  error.cpp
+  export-dif.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(273): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_util.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(278): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_util.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(279): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_util.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(284): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_util.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(291): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\collision_util.cpp)
+  heightfield.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(273): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\convex.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(278): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\convex.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(279): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\convex.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(284): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\convex.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(291): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\convex.cpp)
+  lcp.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(273): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\cylinder.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(278): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\cylinder.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(279): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\cylinder.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(284): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\cylinder.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(291): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\cylinder.cpp)
+  mass.cpp
+  mat.cpp
+  matrix.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(273): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\heightfield.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(278): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\heightfield.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(279): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\heightfield.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(284): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\heightfield.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(291): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\heightfield.cpp)
+  memory.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\ode\src\mass.cpp)
+  misc.cpp
+  obstack.cpp
+  ode.cpp
+  odeinit.cpp
+  odemath.cpp
+  odeou.cpp
+  odetls.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\ode\src\odeinit.cpp)
+  plane.cpp
+..\..\ode\src\mass.cpp(268): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data
+..\..\ode\src\mass.cpp(269): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data
+..\..\ode\src\mass.cpp(270): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data
+  quickstep.cpp
+  ray.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\ode\src\odetls.cpp)
+  rotation.cpp
+  sphere.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(273): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\plane.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(278): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\plane.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(279): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\plane.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(284): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\plane.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(291): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\plane.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(273): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\ray.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(278): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\ray.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(279): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\ray.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(284): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\ray.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(291): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\ray.cpp)
+  step.cpp
+  timer.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(273): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\sphere.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(278): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\sphere.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(279): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\sphere.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(284): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\sphere.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\ode\src\collision_util.h(291): warning C4244: '=': conversion from 'double' to 'dReal', possible loss of data (compiling source file ..\..\ode\src\sphere.cpp)
+  util.cpp
+  IceAABB.cpp
+  IceContainer.cpp
+  IceHPoint.cpp
+  IceIndexedTriangle.cpp
+  IceMatrix3x3.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\Ice\IceContainer.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\Ice\IceAABB.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\Ice\IceHPoint.cpp)
+  IceMatrix4x4.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\Ice\IceIndexedTriangle.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\Ice\IceMatrix3x3.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\Ice\IceMatrix4x4.cpp)
+  IceOBB.cpp
+  IcePlane.cpp
+  IcePoint.cpp
+  IceRandom.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\Ice\IceOBB.cpp)
+  IceRay.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\Ice\IcePlane.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\Ice\IcePoint.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\Ice\IceRandom.cpp)
+  IceRevisitedRadix.cpp
+  IceSegment.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\Ice\IceRay.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\Ice\IceRevisitedRadix.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\Ice\IceSegment.cpp)
+  IceTriangle.cpp
+  IceUtils.cpp
+  Opcode.cpp
+  OPC_AABBCollider.cpp
+  OPC_AABBTree.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\Ice\IceTriangle.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\Ice\IceUtils.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\Opcode.cpp)
+  OPC_BaseModel.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\OPC_AABBCollider.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\OPC_AABBTree.cpp)
+  OPC_Collider.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\OPC_BaseModel.cpp)
+  OPC_Common.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\OPC_Collider.cpp)
+  OPC_HybridModel.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\OPC_Common.cpp)
+  OPC_LSSCollider.cpp
+  OPC_MeshInterface.cpp
+  OPC_Model.cpp
+  OPC_OBBCollider.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\OPC_HybridModel.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\OPC_LSSCollider.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\OPC_MeshInterface.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\OPC_Model.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\OPC_OBBCollider.cpp)
+  OPC_OptimizedTree.cpp
+  OPC_Picking.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\OPC_OptimizedTree.cpp)
+  OPC_PlanesCollider.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\OPC_Picking.cpp)
+  OPC_RayCollider.cpp
+  OPC_SphereCollider.cpp
+  OPC_TreeBuilders.cpp
+  OPC_TreeCollider.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\OPC_PlanesCollider.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\OPC_RayCollider.cpp)
+  OPC_VolumeCollider.cpp
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\OPC_SphereCollider.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\OPC_TreeBuilders.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\OPC_TreeCollider.cpp)
+d:\aaltogames_git\wip\kl_sampling_standalone\sca\ode-0.12\opcode\Ice/IceFPU.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\OPCODE\OPC_VolumeCollider.cpp)
+  fastdot.c
+  fastldlt.c
+  fastlsolve.c
+  fastltsolve.c
+  nextafterf.c
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1357,5): warning MSB8012: TargetPath(D:\aaltogames_git\WIP\KL_sampling_standalone\SCA\ode-0.12\build\vs2012\..\..\lib\ReleaseSingleLib\ode.lib) does not match the Library's OutputFile property value (D:\aaltogames_git\WIP\KL_sampling_standalone\SCA\ode-0.12\lib\ReleaseSingleLib\ode_single.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1359,5): warning MSB8012: TargetName(ode) does not match the Library's OutputFile property value (ode_single). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  ode.vcxproj -> D:\aaltogames_git\WIP\KL_sampling_standalone\SCA\ode-0.12\build\vs2012\..\..\lib\ReleaseSingleLib\ode.lib
